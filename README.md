@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil de layonguedes 
+## Bem-vindo(a) ao perfil de layon
 
  <div>
    <a href="https://github.com/layonguedes">
@@ -14,6 +14,6 @@
 
 <div> 
 
-  ![Snake animation](https://github.com/layonguedes/devemdobro/blob/output/github-contribution-grid-snake.svg)
+  [Snake animation](https://github.com/layonguedes/devemdobro/blob/output/github-contribution-grid-snake.svg)
 
 </div>
